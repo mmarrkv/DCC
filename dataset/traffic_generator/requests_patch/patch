@@ -1,0 +1,1 @@
+adapters.py + sessions.py -> verify=False all over the place

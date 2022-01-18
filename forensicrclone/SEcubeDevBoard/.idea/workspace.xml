@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="SEcubeDevBoard" targetName="SEcubeDevBoard.elf" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0c888c52-73ec-4264-b458-c13ca7354182" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="EmbeddedSvdWindowState">
+    <option name="columnWidths">
+      <list>
+        <option value="212" />
+        <option value="92" />
+        <option value="1507" />
+      </list>
+    </option>
+    <option name="columnOrder">
+      <list>
+        <option value="Name" />
+        <option value="Value" />
+        <option value="Description" />
+      </list>
+    </option>
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1xaGh680HHzgKlENCucHTDgtkpL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Src/Device" />
+    <property name="settings.editor.selected.configurable" value="Debugger.ObjectiveC" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Src/Device" />
+      <recent name="$PROJECT_DIR$/Src/Common" />
+    </key>
+  </component>
+  <component name="RunManager" selected="OpenOCD Download &amp; Run.OCD SEcubeDevBoard">
+    <configuration name="SEcubeDevBoard.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEcubeDevBoard" TARGET_NAME="SEcubeDevBoard.elf" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="SEcubeDevBoard" RUN_TARGET_NAME="SEcubeDevBoard.elf">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OCD SEcubeDevBoard" type="com.jetbrains.cidr.embedded.openocd.conf.type" factoryName="com.jetbrains.cidr.embedded.openocd.conf.factory" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="SEcubeDevBoard" TARGET_NAME="SEcubeDevBoard.elf" CONFIG_NAME="Debug" version="1" RUN_TARGET_PROJECT_NAME="SEcubeDevBoard" RUN_TARGET_NAME="SEcubeDevBoard.elf">
+      <openocd version="1" gdb-port="3333" telnet-port="4444" board-config="$PROJECT_DIR$/SEcubeDevBoard.cfg" reset-type="INIT" download-type="UPDATED_ONLY">
+        <debugger kind="GDB" isBundled="true" />
+      </openocd>
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.SEcubeDevBoard.elf" />
+      <item itemvalue="OpenOCD Download &amp; Run.OCD SEcubeDevBoard" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c888c52-73ec-4264-b458-c13ca7354182" name="Default Changelist" comment="" />
+      <created>1630585901973</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1630585901973</updated>
+      <workItem from="1630585903122" duration="1830000" />
+      <workItem from="1630587745709" duration="6779000" />
+      <workItem from="1630649019499" duration="3917000" />
+      <workItem from="1630655017970" duration="2703000" />
+      <workItem from="1630658116904" duration="1001000" />
+      <workItem from="1631521781782" duration="174000" />
+      <workItem from="1631686712406" duration="37503000" />
+      <workItem from="1632490088210" duration="108211000" />
+      <workItem from="1635866436230" duration="6166000" />
+      <workItem from="1636701514786" duration="8000" />
+      <workItem from="1637576369442" duration="23143000" />
+      <workItem from="1637856555941" duration="3252000" />
+      <workItem from="1638350344167" duration="636000" />
+      <workItem from="1638798928677" duration="1689000" />
+      <workItem from="1638804008145" duration="5856000" />
+      <workItem from="1640704896448" duration="1555000" />
+      <workItem from="1641387376254" duration="22000" />
+      <workItem from="1641535273728" duration="255000" />
+      <workItem from="1642070657889" duration="639000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="com.jetbrains.cidr.embedded.openocd.conf.type">
+        <watch expression="se3_comm_request_buffer" language="ObjectiveC" />
+        <watch expression="acc_tkn_plchldr" language="ObjectiveC" />
+        <watch expression="pcr" language="ObjectiveC" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

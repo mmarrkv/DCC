@@ -1,0 +1,6 @@
+All contents of this repo are licensed under [BSD-3-Clause](https://opensource.org/licenses/BSD-3-Clause)
+
+Except for:
+
+SEcube OpenSDK - which is licensed under [GPL-3.0-only](https://opensource.org/licenses/GPL-3.0)
+wolfssl - license file: ./wolfssl-master/LICENSING
